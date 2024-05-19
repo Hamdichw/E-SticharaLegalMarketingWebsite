@@ -51,7 +51,7 @@ const Banner = () => {
             <ModalVideo
               channel="youtube"
               isOpen={videoOpen}
-              videoId="ZNA9rmDsYVE"
+              videoId="GvSRUQlIrls"
               onClose={() => setVideoOpen(false)}
             />
           </Flex>
